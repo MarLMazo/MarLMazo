@@ -7,6 +7,7 @@ I'm a Junior Web Developer based on Canada
 [![MarLMazo's github stats](https://github-readme-stats.vercel.app/api?username=MarLMazo&theme=buefy&show_icons=true)](https://github.com/MarLMazo/github-readme-stats)
 
 ## :gear: Language and Tools
+
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
@@ -21,7 +22,17 @@ I'm a Junior Web Developer based on Canada
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![VisualStudio](https://img.icons8.com/fluent/30/visual-studio-2019.png)
 ![Console](https://img.icons8.com/color/30/console.png)
+![Redux](https://img.icons8.com/color/30/redux.png)
+![XML](https://img.icons8.com/dusk/30/xml-file.png)
+![C#](https://img.icons8.com/color/30/c-sharp-logo-2.png)
+### :open_file_folder: Database
+![MySql](https://img.icons8.com/ios/30/mysql-logo.png)
+![Firebase](https://img.icons8.com/color/30/firebase.png)
+![MongoDB](https://img.icons8.com/color/30/mongodb.png)
 
+### :pencil2: Design Tools
+![Photoshop](https://img.icons8.com/fluent/30/adobe-photoshop.png)
+![Illustrator](https://img.icons8.com/color/30/adobe-illustrator.png)
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarLMazo&repo=Portfolio_website)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarLMazo&repo=XMLFinalProj)
