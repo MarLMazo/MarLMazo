@@ -34,11 +34,15 @@ I'm a Junior Web Developer based on Canada
 ### :pencil2: Design Tools
 ![Photoshop](https://img.icons8.com/fluent/30/adobe-photoshop.png)
 ![Illustrator](https://img.icons8.com/color/30/adobe-illustrator.png)
+
+### Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarLMazo&layout=compact)
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarLMazo&repo=Portfolio_website)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarLMazo&repo=XMLFinalProj)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarLMazo&repo=first-contributions)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarLMazo&repo=chatSystem-vuejs)
+
 
 **MarLMazo/MarLMazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
