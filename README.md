@@ -1,5 +1,5 @@
-# Hi, I'm MarL Dohn Mazo (:beginner: :computer: :coffee:)
-I'm a Junior Web Developer based on Canada
+# Hi, I'm MarL Dohn Mazo (:computer: :coffee:)
+I'm a Front End Developer based on Canada
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marldohn/)
 [![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:me@mdmazo.com)
