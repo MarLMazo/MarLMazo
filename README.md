@@ -21,7 +21,7 @@ I'm a Front End Developer based on Canada
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![VueJS](https://img.icons8.com/color/30/vue-js.png)
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![VisualStudio](https://github.com/MarLMazo/MarLMazo/assets/42755897/2bbe50f2-5be2-4ba5-827b-e43f8a7ad765)
+![VisualStudio](https://img.icons8.com/color/30/visual-studio.png)
 ![Console](https://img.icons8.com/color/30/console.png)
 ![Redux](https://img.icons8.com/color/30/redux.png)
 ![XML](https://img.icons8.com/dusk/30/xml-file.png)
